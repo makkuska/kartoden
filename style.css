@@ -8,7 +8,6 @@ body
 	padding: 0;
 	background-color: #145871;
 }
-
 #art-main
 {
 	position: relative;
@@ -1124,6 +1123,13 @@ text-decoration: none;
 	overflow: hidden;
 	width: 180px;
 }
+.odkaz a:hover, .odkaz a:visited, .odkaz a:link, .odkaz a{
+	color:#239CC7;
+}
+.odkaz a:hover {
+  text-decoration: underline;
+}
+
 /* end LayoutCell */
 
 
